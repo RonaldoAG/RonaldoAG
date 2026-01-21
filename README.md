@@ -62,13 +62,15 @@
       <kbd>Backend</kbd>
       <br>
       <br>
-		<a href="https://qgis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://qgis.org/styleguide/visual/qgis-icon64.png" height="40"/></span></a>
-		<a href="https://swat.tamu.edu/software/plus/" target="_blank"><img width="40px" src="assets/logos/swat+.png" alt="SWAT logo" /></a>
-		<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" height="40"/></span></a>
-		<a href="https://www.saga-gis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/SAGA_GIS_logo.png" height="40"/></span></a>
-		<a href="https://www.r-project.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/></span></a>
-		<a href="https://earthengine.google.com/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Google_Earth_Engine_logo.png" height="40"/></span></a>
-		<a href="https://www.agisoft.com/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.agisoft.com/images/logo.png" height="40"/></span></a>
+		<a href="https://qgis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://qgis.org/styleguide/visual/qgis-icon32.png" height="40"/></span></a>
+		<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank">
+			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" height="40"/></span></a>
+		<a href="https://www.saga-gis.org/" target="_blank">
+			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://saga-gis.sourceforge.io/_images/logo_saga_big.png" height="40"/></span></a>
+		<a href="https://earthengine.google.com/" target="_blank">
+			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://earthengine.google.com/static/images/earth_engine_icon.png" height="40"/></span></a>
+		<a href="https://www.agisoft.com/" target="_blank">
+			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.agisoft.com/fileadmin/templates/images/product_1.png" height="40"/></span></a>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
