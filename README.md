@@ -6,10 +6,10 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/hungpham3112">
+	<a href="https://github.com/RonaldoAG">
 		<img src="https://komarev.com/ghpvc/?username=RonaldoAG&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 	</a>
-	<a href="https://github.com/hungpham3112">
+	<a href="https://github.com/RonaldoAG">
 		<img src="https://img.shields.io/github/followers/RonaldoAG?label=Followers" alt="followers"/>
 	</a>
 </p>
@@ -134,32 +134,28 @@
 ## 📈 Github Profile Stats
 
 <p align="center">
-    <a href="https://github.com/hungpham3112">
-        <img height="180em" src="https://streak-stats.demolab.com?user=hungpham3112&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpham3112&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham3112&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    <a href="https://github.com/RonaldoAG">
+        <img height="180em" src="https://streak-stats.demolab.com?user=RonaldoAG&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoAG&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoAG&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
     </a>
 </p>
-
 <br/>
-
-https://hlc.so/wp-content/uploads/2023/10/etabs.png
-
 
 ## 🏆 Github Profile Trophy
 
 <p align="left">
-    <a href="https://github.com/hungpham3112">
+    <a href="https://github.com/RonaldoAG">
         <img height="180em"
-        src="https://github-profile-trophy.vercel.app/?username=hungpham3112&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
+        src="https://github-profile-trophy.vercel.app/?username=RonaldoAG&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
 </a>
 </p>
 
 ## 📬 Contact me
 
 <p align=center>
-    <a href="https://github.com/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
+    <a href="https://github.com/RonaldoAG" target="_blank">
+        <img src="https://raw.githubusercontent.com/RonaldoAG/RonaldoAG/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="https://linkedin.com/in/hungpham3112" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
@@ -176,5 +172,4 @@ https://hlc.so/wp-content/uploads/2023/10/etabs.png
 
 ---
 
-Credit: [hungpham3112](https://github.com/hungpham3112)
 Last edited on: 28/08/2023
