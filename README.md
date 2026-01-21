@@ -42,6 +42,7 @@
 		<a href="https://fortran-lang.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" /></a>
 		<a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
 		<a href="https://www.latex-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>
+		<a href="https://quarto.org/" target="_blank"><img width="30px" src="https://cdn.simpleicons.org/quarto/39729E" /></a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
     </kbd>
       <br>
