@@ -76,9 +76,9 @@
       <kbd>Database</kbd>
       <br>
       <br>
+	  <a href="https://www.autodesk.com/products/civil-3d/overview" target="_blank">
+			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.sonda-mco.com/assets/images/badges/autodesk-civil-3d-product-icon.svg" height="40"/></span></a>
       <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
-      <a href="https://www.postgresql.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
     </kbd>
       <br>
     <kbd>
