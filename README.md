@@ -89,7 +89,7 @@
       <br>
       <br>
       <a href="https://www.csiamerica.com/products/etabs" target="_blank"><img width="30px" src="https://hlc.so/wp-content/uploads/2023/10/etabs.png" /></a>
-	  <a href="https://www.csiamerica.com/products/sap2000" target="_blank"><img width="40px" src="assets/logos/sap2000.png" alt="SAP2000" /></a>
+	  <a href="https://www.csiamerica.com/products/sap2000" target="_blank"><img width="30px" src="assets/logos/sap2000.png" alt="SAP2000" /></a>
 	  <a href="https://www.dlubal.com/es/productos/rfem-software-del-mef/rfem/que-es-rfem" target="_blank">
 		  <img width="30px" src="https://raw.githubusercontent.com/Dlubal-Software/RFEM_Python_Client/main/img/RFEM.png" /></a>
     </kbd>
@@ -120,7 +120,7 @@
 			<img src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png" alt="FLO2D logo" height="25"/></span></a>
     </kbd>
     <kbd>
-      <kbd>Text editor, IDE, Notebook</kbd>
+      <kbd>Code Editors & Notebooks</kbd>
       <br>
       <br>
       <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
