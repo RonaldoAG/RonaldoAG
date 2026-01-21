@@ -115,7 +115,7 @@
     <img
       src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png"
       alt="FLO2D logo"
-      height="40"
+      height="30"
     />
   </span>
 </a>
