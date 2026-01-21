@@ -142,31 +142,27 @@
 </p>
 <br/>
 
-## 🏆 Github Profile Trophy
-
-<p align="left">
-    <a href="https://github.com/RonaldoAG">
-        <img height="180em"
-        src="https://github-profile-trophy.vercel.app/?username=RonaldoAG&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
-</a>
-</p>
-
 ## 📬 Contact me
 
-<p align=center>
-    <a href="https://github.com/RonaldoAG" target="_blank">
-        <img src="https://raw.githubusercontent.com/RonaldoAG/RonaldoAG/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/phamhung311202" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:phamhung20022015@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
-    </a>
+<p align="center">
+  <a href="https://github.com/RonaldoAG" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="32" style="margin-bottom:5px;" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ronaldoanticonaguillen/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" style="margin-bottom:5px;" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ronaldo.anticona.guillen" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="32" style="margin-bottom:5px;" />
+  </a>
+  &nbsp;
+  <a href="mailto:ronaldoag1007@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="32" style="margin-bottom:5px;" />
+  </a>
 </p>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
