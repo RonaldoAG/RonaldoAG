@@ -111,11 +111,11 @@
 		<a href="https://www.bentley.com/software/sewercad/" target="_blank">
 			<img width="40px" src="assets/logos/sewercad.png" alt="SewerCAD logo" /></a>
 		<a href="https://www.flo-2d.com/" target="_blank">
-  <span style="display: inline-flex; align-items: center; height: 20px;">
+  <span style="display: inline-flex; align-items: center;">
     <img
       src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png"
       alt="FLO2D logo"
-      height="30"
+      height="25"
     />
   </span>
 </a>
