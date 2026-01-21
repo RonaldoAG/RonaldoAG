@@ -110,6 +110,15 @@
 			<img width="40px" src="assets/logos/watercad.png" alt="WaterCAD logo" /></a>
 		<a href="https://www.bentley.com/software/sewercad/" target="_blank">
 			<img width="40px" src="assets/logos/sewercad.png" alt="SewerCAD logo" /></a>
+		<a href="https://www.flo-2d.com/" target="_blank">
+  <span style="display: inline-flex; align-items: center; height: 40px;">
+    <img
+      src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png"
+      alt="FLO2D logo"
+      height="40"
+    />
+  </span>
+</a>
     </kbd>
     <kbd>
       <kbd>Text editor, IDE, Notebook</kbd>
