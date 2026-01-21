@@ -80,6 +80,8 @@
 			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.sonda-mco.com/assets/images/badges/autodesk-civil-3d-product-icon.svg" height="40"/></span></a>
       <a href="https://www.autodesk.com/es/products/autocad/overview" target="_blank">
 		  <img width="30px" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/autocad-badge-75x75.png" /></a>
+	  <a href="https://www.autodesk.com/es/products/revit/overview" target="_blank">
+		  <img width="30px" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/revit-badge-75x75.png" /></a>
     </kbd>
       <br>
     <kbd>
