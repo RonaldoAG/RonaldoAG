@@ -98,6 +98,8 @@
 			<img width="40px" src="https://civilsurveysolutions.com.au/wp-content/uploads/infoworks-icm-product-icon-128@2x-150x150.png" alt="InfoWorks ICM logo" /></a>
 		<a href="https://www.flo-2d.com/" target="_blank">
 			<img width="40px" src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png" alt="FLO2D logo" /></a>
+		<a href="https://www.epa.gov/water-research/storm-water-management-model-swmm" target="_blank">
+			<img width="40px" src="assets/logos/swmm.png" alt="SWMM logo" /></a>
     </kbd>
     <kbd>
       <kbd>Text editor, IDE, Notebook</kbd>
