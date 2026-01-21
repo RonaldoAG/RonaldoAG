@@ -62,8 +62,9 @@
       <kbd>Backend</kbd>
       <br>
       <br>
-		<a href="https://qgis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_2017.svg" height="40"/></span></a>
-		<a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" height="40"/></span></a>
+		<a href="https://qgis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://qgis.org/styleguide/visual/qgis-icon64.png" height="40"/></span></a>
+		<a href="https://swat.tamu.edu/software/plus/" target="_blank"><img width="40px" src="assets/logos/swat+.png" alt="SWAT logo" /></a>
+		<a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-pro-64.svg" height="40"/></span></a>
 		<a href="https://www.saga-gis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/SAGA_GIS_logo.png" height="40"/></span></a>
 		<a href="https://www.r-project.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/></span></a>
 		<a href="https://earthengine.google.com/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Google_Earth_Engine_logo.png" height="40"/></span></a>
@@ -95,8 +96,7 @@
         <a href="https://www.hec.usace.army.mil/software/hec-ras/" target="_blank"><img src="https://img.shields.io/badge/HEC--RAS-003A8F?style=for-the-badge&logo=databricks&logoColor=white"/></a>
 		<a href="https://www.hec.usace.army.mil/software/hec-hms/" target="_blank">
 			<img width="40px" src="https://www.hec.usace.army.mil/confluence/download/attachments/18486270/HMSDOCS?version=1&modificationDate=1582728030428&api=v2" alt="EPANET logo" /></a>
-		<a href="https://swat.tamu.edu/software/plus/" target="_blank">
-			<img width="40px" src="assets/logos/swat+.png" alt="SWAT logo" /></a>
+		<a href="https://swat.tamu.edu/software/plus/" target="_blank"><img width="40px" src="assets/logos/swat+.png" alt="SWAT logo" /></a>
 		<a href="https://www.hec.usace.army.mil/software/hec-ras/" target="_blank">
 			<img width="40px" src="https://www.hec.usace.army.mil/confluence/download/attachments/15471297/RASDOCS?version=1&modificationDate=1604531067092&api=v2" alt="HEC-RAS logo" /></a>
 		<a href="https://www.iberaula.es/" target="_blank">
