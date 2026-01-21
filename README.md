@@ -7,19 +7,18 @@
 
 <p align="center">
 	<a href="https://github.com/hungpham3112">
-		<img src="https://komarev.com/ghpvc/?username=hungpham3112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+		<img src="https://komarev.com/ghpvc/?username=RonaldoAG&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 	</a>
 	<a href="https://github.com/hungpham3112">
-		<img src="https://img.shields.io/github/followers/hungpham3112?label=Followers" alt="followers"/>
+		<img src="https://img.shields.io/github/followers/RonaldoAG?label=Followers" alt="followers"/>
 	</a>
 </p>
 
 ## ♑ About me
 
-- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
-
-- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
-
+- Ingeniero Civil de la Universidad Nacional de Huancavelica. Interesado en el desarrollo de soluciones computacionales para hidrología, hidráulica, modelamiento hidráulico, GIS, teledetección, meteorología entre otros integrando herramientas de software libre
+- Trabajo con programación estructurada y funcional para optimizar procesos de análisis, modelamiento y gestión de información en proyectos de ingeniería, incluyendo expedientes técnicos y obras de infraestructura hidráulica, vial y de edificación.
+- Actualmente exploro lenguajes de programación para computación científica y estudio los fundamentos de aprendizaje automático y aprendizaje profundo, con interés en su aplicación a problemas hidrológicos, análisis de datos espaciales y automatización de flujos de trabajo.
 <br/>
 
 ## 🛠️ Tools
@@ -30,22 +29,20 @@
       <br>
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
-        <a href="https://pop.system76.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" /></a>
         <a href="https://ubuntu.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
-        <a href="https://archlinux.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" /></a>
     </kbd>
       <br>
     <kbd>
       <kbd>Programming and Markup Languages</kbd>
       <br>
       <br>
-        <a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
         <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.r-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
-        <a href="https://www.rust-lang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" /></a>
-        <a href="https://www.cprogramming.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /></a>
-        <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
+		<a href="https://www.cplusplus.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
+		<a href="https://fortran-lang.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" /></a>
+		<a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
+		<a href="https://www.latex-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>
+		<a href="https://quarto.org/" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/quarto-dev/quarto-cli/main/src/resources/quarto-logo.png" /></a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
     </kbd>
       <br>
