@@ -64,7 +64,7 @@
       <br>
 		<a href="https://qgis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://qgis.org/styleguide/visual/qgis-icon64.png" height="40"/></span></a>
 		<a href="https://swat.tamu.edu/software/plus/" target="_blank"><img width="40px" src="assets/logos/swat+.png" alt="SWAT logo" /></a>
-		<a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-pro-64.svg" height="40"/></span></a>
+		<a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" height="40"/></span></a>
 		<a href="https://www.saga-gis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/SAGA_GIS_logo.png" height="40"/></span></a>
 		<a href="https://www.r-project.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/></span></a>
 		<a href="https://earthengine.google.com/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Google_Earth_Engine_logo.png" height="40"/></span></a>
