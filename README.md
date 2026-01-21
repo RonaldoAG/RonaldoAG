@@ -100,6 +100,12 @@
 			<img width="40px" src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png" alt="FLO2D logo" /></a>
 		<a href="https://www.epa.gov/water-research/storm-water-management-model-swmm" target="_blank">
 			<img width="40px" src="assets/logos/swmm.png" alt="SWMM logo" /></a>
+		<a href="https://www.epa.gov/water-research/epanet" target="_blank">
+			<img width="40px" src="assets/logos/epanet.png" alt="EPANET logo" /></a>
+		<a href="https://www.bentley.com/software/watercad/" target="_blank">
+			<img width="40px" src="assets/logos/watercad.png" alt="WaterCAD logo" /></a>
+		<a href="https://www.bentley.com/software/sewercad/" target="_blank">
+			<img width="40px" src="assets/logos/sewercad.png" alt="SewerCAD logo" /></a>
     </kbd>
     <kbd>
       <kbd>Text editor, IDE, Notebook</kbd>
