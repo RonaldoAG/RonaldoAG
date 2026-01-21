@@ -93,15 +93,9 @@
 		<a href="https://www.hec.usace.army.mil/software/hec-ras/" target="_blank">
 			<img width="40px" src="https://www.hec.usace.army.mil/confluence/download/attachments/15471297/RASDOCS?version=1&modificationDate=1604531067092&api=v2" alt="HEC-RAS logo" /></a>
 		<a href="https://www.iberaula.es/" target="_blank">
-			<img width="40px" src="https://www.iberaula.es/cvdata/cntr2/spc21/dtos/mdia/About-the-model/PT_Splash_Ibersplash.png" alt="Iber logo" /></a>
-		<a href="https://www.iberaula.es/" target="_blank">
-			<img width="55px" style="vertical-align: middle;" src="https://www.iberaula.es/cvdata/cntr2/spc21/dtos/mdia/About-the-model/PT_Splash_Ibersplash.png" alt="Iber logo" /></a>
+			<img width="60px" style="vertical-align: middle;" src="https://www.iberaula.es/cvdata/cntr2/spc21/dtos/mdia/About-the-model/PT_Splash_Ibersplash.png" alt="Iber logo" /></a>
 		<a href="https://www.autodesk.com/products/infoworks-icm/" target="_blank">
 			<img width="40px" src="https://civilsurveysolutions.com.au/wp-content/uploads/infoworks-icm-product-icon-128@2x-150x150.png" alt="InfoWorks ICM logo" /></a>
-		<a href="https://www.flo-2d.com/" target="_blank">
-			<img width="40px" src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png" alt="FLO2D logo" /></a>
-		<a href="https://www.flo-2d.com/" target="_blank">
-		<img width="45px" style="vertical-align: middle;" src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png" alt="FLO2D logo" /> </a>
 		<a href="https://www.epa.gov/water-research/storm-water-management-model-swmm" target="_blank">
 			<img width="40px" src="assets/logos/swmm.png" alt="SWMM logo" /></a>
 		<a href="https://www.epa.gov/water-research/epanet" target="_blank">
@@ -110,15 +104,8 @@
 			<img width="40px" src="assets/logos/watercad.png" alt="WaterCAD logo" /></a>
 		<a href="https://www.bentley.com/software/sewercad/" target="_blank">
 			<img width="40px" src="assets/logos/sewercad.png" alt="SewerCAD logo" /></a>
-		<a href="https://www.flo-2d.com/" target="_blank">
-  <span style="display: inline-flex; align-items: center;">
-    <img
-      src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png"
-      alt="FLO2D logo"
-      height="25"
-    />
-  </span>
-</a>
+		<a href="https://www.flo-2d.com/" target="_blank"><span style="display: inline-flex; align-items: center;">
+			<img src="https://flo-2d.com/wp-content/uploads/2021/04/400-Transparent.png" alt="FLO2D logo" height="25"/></span></a>
     </kbd>
     <kbd>
       <kbd>Text editor, IDE, Notebook</kbd>
