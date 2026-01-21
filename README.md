@@ -149,9 +149,13 @@
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="32" style="margin-bottom:5px;" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ronaldoanticonaguillen/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" style="margin-bottom:5px;" />
-  </a>
+  <a href="https://www.linkedin.com/in/ronaldo-anticona-guillen/" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+    alt="LinkedIn"
+    height="32"
+    style="margin-bottom:5px;"
+  /></a>
   &nbsp;
   <a href="https://www.facebook.com/ronaldo.anticona.guillen" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="32" style="margin-bottom:5px;" />
