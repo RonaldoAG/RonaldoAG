@@ -123,11 +123,9 @@
       <kbd>Text editor, IDE, Notebook</kbd>
       <br>
       <br>
-      <a href="https://www.vim.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
-      <a href="https://plutojl.org/" target="_blank"><img width="30px" src="https://juliacomputing.gallerycdn.vsassets.io/extensions/juliacomputing/pluto-vscode/0.1.2/1649235051665/Microsoft.VisualStudio.Services.Icons.Default" /></a>
       <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
-      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
+      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+      <a href="https://cursor.sh/" target="_blank"><img width="30px" src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" /></a>
       </kbd>
 </p>
 
