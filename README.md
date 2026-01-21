@@ -59,7 +59,7 @@
       <a href="https://opencv.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
     </kbd>
     <kbd>
-      <kbd>Backend</kbd>
+      <kbd>GIS & Teledetección</kbd>
       <br>
       <br>
 		<a href="https://qgis.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://qgis.org/styleguide/visual/qgis-icon32.png" height="40"/></span></a>
@@ -85,13 +85,13 @@
     </kbd>
       <br>
     <kbd>
-      <kbd>System, Networking & Deployment</kbd>
+      <kbd>Estructuras</kbd>
       <br>
       <br>
-      <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
-      <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-      <a href="https://railway.app/" target="_blank"><img width="30px" src="https://railway.app/brand/logo-light.svg" /></a>
+      <a href="https://www.csiamerica.com/products/etabs" target="_blank"><img width="30px" src="https://hlc.so/wp-content/uploads/2023/10/etabs.png" /></a>
+	  <a href="https://www.csiamerica.com/products/sap2000" target="_blank"><img width="40px" src="assets/logos/sap2000.png" alt="SAP2000" /></a>
+	  <a href="https://www.dlubal.com/es/productos/rfem-software-del-mef/rfem/que-es-rfem" target="_blank">
+		  <img width="30px" src="https://raw.githubusercontent.com/Dlubal-Software/RFEM_Python_Client/main/img/RFEM.png" /></a>
     </kbd>
     <kbd>
       <kbd>Hidrología e Hidráulica</kbd>
@@ -144,6 +144,9 @@
 </p>
 
 <br/>
+
+https://hlc.so/wp-content/uploads/2023/10/etabs.png
+
 
 ## 🏆 Github Profile Trophy
 
