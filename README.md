@@ -73,12 +73,13 @@
 			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.agisoft.com/fileadmin/templates/images/product_1.png" height="40"/></span></a>
     </kbd>
     <kbd>
-      <kbd>Database</kbd>
+      <kbd>CAD</kbd>
       <br>
       <br>
 	  <a href="https://www.autodesk.com/products/civil-3d/overview" target="_blank">
 			<span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.sonda-mco.com/assets/images/badges/autodesk-civil-3d-product-icon.svg" height="40"/></span></a>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
+      <a href="https://www.autodesk.com/es/products/autocad/overview" target="_blank">
+		  <img width="30px" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/autocad-badge-75x75.png" /></a>
     </kbd>
       <br>
     <kbd>
