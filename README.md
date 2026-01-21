@@ -62,7 +62,40 @@
       <kbd>Backend</kbd>
       <br>
       <br>
-        <a href="https://www.djangoproject.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
+		<a href="https://qgis.org/" target="_blank">
+			<span style="display:inline-flex; align-items:center; height:40px;">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_2017.svg" height="40"/></span></a>
+
+  <a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank">
+    <span style="display:inline-flex; align-items:center; height:40px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" height="40"/>
+    </span>
+  </a>
+
+  <a href="https://www.saga-gis.org/" target="_blank">
+    <span style="display:inline-flex; align-items:center; height:40px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/SAGA_GIS_logo.png" height="40"/>
+    </span>
+  </a>
+
+  <a href="https://www.r-project.org/" target="_blank">
+    <span style="display:inline-flex; align-items:center; height:40px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+    </span>
+  </a>
+
+  <a href="https://earthengine.google.com/" target="_blank">
+    <span style="display:inline-flex; align-items:center; height:40px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Google_Earth_Engine_logo.png" height="40"/>
+    </span>
+  </a>
+
+  <a href="https://www.agisoft.com/" target="_blank">
+    <span style="display:inline-flex; align-items:center; height:40px;">
+      <img src="https://www.agisoft.com/images/logo.png" height="40"/>
+    </span>
+  </a>
+    
     </kbd>
     <kbd>
       <kbd>Database</kbd>
