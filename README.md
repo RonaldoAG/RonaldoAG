@@ -68,7 +68,6 @@
 		<a href="https://www.r-project.org/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/></span></a>
 		<a href="https://earthengine.google.com/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Google_Earth_Engine_logo.png" height="40"/></span></a>
 		<a href="https://www.agisoft.com/" target="_blank"><span style="display:inline-flex; align-items:center; height:40px;"><img src="https://www.agisoft.com/images/logo.png" height="40"/></span></a>
-    
     </kbd>
     <kbd>
       <kbd>Database</kbd>
