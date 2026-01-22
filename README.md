@@ -8,7 +8,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=700&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hola!+Soy+Ronaldo+Anticona;Ingeniero+Civil+%7C+Recursos+Hídricos;Bienvenido+a+mi+GitHub"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=700&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hola!+Soy+Ronaldo+Anticona;Ingeniero+Civil;Bienvenido+a+mi+GitHub"
       alt="Typing SVG" /></a></div>
 
 <p align="center">
