@@ -20,9 +20,9 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 ## ♑ About me
 
-- Ingeniero Civil de la Universidad Nacional de Huancavelica. Interesado en el desarrollo de soluciones computacionales para hidrología, hidráulica, modelamiento hidráulico, GIS, teledetección, meteorología entre otros integrando herramientas de software libre
+- Ingeniero Civil de la Universidad Nacional de Huancavelica. Interesado en el desarrollo de soluciones computacionales <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> para hidrología, hidráulica, modelamiento hidráulico, GIS, teledetección, meteorología entre otros integrando herramientas de software libre
 - Trabajo con programación estructurada y funcional para optimizar procesos de análisis, modelamiento y gestión de información en proyectos de ingeniería, incluyendo expedientes técnicos y obras de infraestructura hidráulica, vial y de edificación.
-- Actualmente exploro lenguajes de programación para computación científica y estudio los fundamentos de aprendizaje automático y aprendizaje profundo, con interés en su aplicación a problemas hidrológicos, análisis de datos espaciales y automatización de flujos de trabajo.
+- Actualmente exploro lenguajes de programación para computación científica y estudio los fundamentos de aprendizaje automático y aprendizaje profundo, con interés en su aplicación a problemas hidrológicos, análisis de datos espaciales y automatización de flujos de trabajo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">.
 <br/>
 
 ## 🛠️ Tools
