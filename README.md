@@ -139,9 +139,9 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 <p align="center">
     <a href="https://github.com/RonaldoAG">
-        <img height="180em" src="https://streak-stats.demolab.com?user=RonaldoAG&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoAG&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoAG&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+        <img height="180em" src="https://streak-stats.demolab.com?user=RonaldoAG&theme=default&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldoAG&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoAG&hide_border=true&layout=compact&theme=default&hide=jupyter%20notebook"/>
     </a>
 </p>
 <br/>
