@@ -142,21 +142,21 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[OlivaBiliLive release-v3.14.1](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-f4ec52c28bb501b84e5d) - Near Future
-[iamai v0.0.3rc3](https://github.com/retrofor/iamai/releases/tag/v0.0.3rc3) - 2024-02-23
+[RAS Commander](https://github.com/gpt-cmdr/ras-commander) - Near Future
+[Model Designer Qgis](https://docs.qgis.org/3.40/en/docs/user_manual/processing/modeler.html) - 2024-02-23
 
 </td><td valign="top" width="33%">
 
 ### 📰Academic site
 <!-- blog starts -->
-<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI field. In all the LLMs and AI agent hype a paper like Kolmogorov–Arnold Networks is a breath of fresh air. This paper seems quite groundbreaking and might completely change the field. Rarely do we see papers challenging the fundamentals of AI, but this one seems to do it.</p></details>
-
-<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capability not only streamlines code management but also unlocks innovative avenues for collaboration and modular development. This blog post aims to delve deep into the significance of remote package imports, unravel the underlying mechanisms, and provide in-depth examples to illustrate their practical applications.</p></details>
+<details><summary>2024-05-25 <a href="https://rpubs.com/RonaldoAnticona/politecnico">Visualización de cuencas en Leaflet</a></summary><p>Visualización en mapara interactivo de políigonos delimitados</p></details>
+<details><summary>2024-01-19 <a href="https://rpubs.com/RonaldoAnticona/821750">Índices diferenciales normalizados con Rgee</a></summary><p>Teledetección con R enfocado en el monitoreo de agua y vegetación</p></details>
+<details><summary>2024-01-19 <a href="https://rpubs.com/RonaldoAnticona/818847">Modelo digital de elevación</a></summary><p>análisis de terreno y topografía mediante programación en R y Google Earth Engine</p></details>
 
 </td><td valign="top" width="33%">
 
-### 🎹Release Album/EP
-_More on [fm.jyunko.cn](https://fm.jyunko.cn/)_
+### Research
+_Process
 </td></tr></table>
 
 
